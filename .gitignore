@@ -6,3 +6,12 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
+/setting/setting.js
+
+#OSX
+.DS_Store
+.svn
+._*
+
+webpack.config.js
+package-lock.json
